@@ -1,0 +1,79 @@
+# Arrays
+
+Problems solved in the Arrays category.
+
+## Problems
+
+- Two Sum
+- count primes
+- check if array is good
+- sepreate the digits in an array
+- rotate the box
+- rotate image
+- rotate image
+- rotate function
+- maximum path score in a Grid
+- Minimum operations to make a Uni-Value Grid
+- Check if There is a valid path in a grid
+- detect Cycles in 2D Grid
+- Sum of distances
+- Words within Two Edits of Dictionary
+- Words Within Two Edits of Dictionary
+- Minimize Hamming Distance After Swap Operations
+- Two Furthest Houses With Different Colors
+- Minimum Absolute Distance Between Mirror Pairs
+- Closest Equal Element Queries
+- Shortest Distance to Target String in a Circular Array
+- Minimum Total Distance Traveled.
+- Minimum Distance to the Target Element
+- Minimum Distance Between Three Equal Elements II
+- Minimum Distance Between Three Equal Elements I
+- XOR After Range Multiplication Queries II
+- XOR After Range Multiplication Queries I
+- Walking Robot Simulation
+- Maximum Walls Destroyed by Robots
+- Maximum Amount of Money Robot Can Earn
+- Find the String with LCP
+- Equal Sum Grid Partition II
+- Equal Sum Grid Partition I
+- Maximum Non Negative Product in a Matrix
+- Minimum Absolute Difference in Sliding Submatrix
+- Determine Whether Matrix Can Be Obtained By Rotation
+- Flip Square Submatrix Vertically
+- Count Submatrices With Equal Frequency of X and Y
+- Count Submatrices with Top-Left Element and Sum Less Than k
+- Largest Submatrix With Rearrangements
+- Get Biggest Three Rhombus Sums in a Grid
+- Minimum Number of Seconds to Make Mountain Height Zero
+- Find Unique Binary String
+- Special Positions in a Binary Matrix
+- Minimum Swaps to Arrange a Binary Grid
+- Sort Integers by The Number of 1 Bits
+- Transformed Array
+- Trionic Array I
+- Divide an Array Into Subarrays With Minimum Cost I
+- Single Number
+- Minimum Difference Between Highest and Lowest of K Scores
+- Largest Magic Square
+- Find the Largest Area of Square Inside Two Rectangles
+- Maximum Square Area by Removing Fences From a Field
+- Maximize Area of Square Hole in Grid
+- Remove Element
+- Separate Squares II
+- Separate Squares I
+- Minimum Time Visiting All Points
+- Maximal Rectangle
+- Max Dot Product of Two Subsequences
+- Maximum Matrix Sum
+- Search Insert Position
+- Four Divisors
+- Sort Colors
+- Longest Common Prefix
+- N-Repeated Element in Size 2N Array
+- Plus One
+- Count Negative Numbers in a Sorted Matrix
+- Two Best Non-Overlapping Events
+- Missing Number
+- Concatenation of Array
+- Intersection of Two Arrays
+- Binary Search
