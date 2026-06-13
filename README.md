@@ -36,8 +36,8 @@ Welcome to my Data Structures and Algorithms (DSA) practice repo.
 
 
 ## 💻 Platforms Used
-[x]leetcode
-[x]VScode
+- leetcode
+- VScode
 
 ## 🔥 Daily Practice Rule
 - Solve problems daily
